@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDMiddleware", "CRUDMiddleware.csproj", "{0240D66B-51A8-7C21-283B-C6ADA5AF9709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0240D66B-51A8-7C21-283B-C6ADA5AF9709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0240D66B-51A8-7C21-283B-C6ADA5AF9709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0240D66B-51A8-7C21-283B-C6ADA5AF9709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0240D66B-51A8-7C21-283B-C6ADA5AF9709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CE0F821-69BC-4DBE-B825-1CBF35169967}
+	EndGlobalSection
+EndGlobal
