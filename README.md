@@ -273,5 +273,3 @@ MBA (2025) | CDOE Student
 Project: Middleware-based User Management API (TechHive Solutions scenario)
 
 ***
-
-If you want, paste your **final Program.cs** here and I’ll tailor this README to match your exact project name, ports, and middleware behavior (and also add badges, screenshots, and API examples that match your Swagger output).
